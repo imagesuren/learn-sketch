@@ -34,6 +34,12 @@ Twitter:
   by [Sebastien Gabriel](https://twitter.com/KounterB)
   _(2014-05-26)_
 
+## Icons
+
+- [SketchActive](http://www.aegeank.com/sketchactive/)
+  by [Aegean K](https://twitter.com/AegeanKuang)
+  _(free)_
+
 ## GUIs and UI kits
 
 - [Android L Mobile UI Template](https://dribbble.com/shots/1641154-Android-L-Mobile-UI-Template-sketch)
