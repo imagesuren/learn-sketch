@@ -44,6 +44,9 @@
 - [Import web pages into Sketch](https://medium.com/@timur_carpeev/import-web-pages-into-sketch-6681ae0b118a)
   by [Timur Carpeev](https://twitter.com/timur_carpeev)
   _(2014-05-09)_
+- [Typography in Sketch 3: Linked Text Styles](https://medium.com/@ericajaclyn/typography-in-sketch-3-linked-text-styles-9946a32af688)
+  by [Erica Jaclyn Stein](https://twitter.com/ericajaclyn)
+  _(2014-04-17)_
 
 ---
 
