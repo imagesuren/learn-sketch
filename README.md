@@ -36,6 +36,12 @@ Twitter:
 
 ## GUIs and UI kits
 
+- [Android L Mobile UI Template](https://dribbble.com/shots/1641154-Android-L-Mobile-UI-Template-sketch)
+  by [Vincent Tantardini](https://twitter.com/vtcreative)
+  _(free)_
+- [Android L Tablet UI Template](https://dribbble.com/shots/1652300-Android-L-Tablet-UI-Template-sketch)
+  by [Vincent Tantardini](https://twitter.com/vtcreative)
+  _(free)_
 - [iPhone GUI for Sketch (iOS7)](http://www.teehanlax.com/tools/iphone-sketch-app/)
   by [teehan+lax](https://twitter.com/teehanlax)
   _(free)_
