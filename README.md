@@ -76,3 +76,8 @@ Twitter:
 
 - [sketchflow](http://sketchflow.io/)
   by [SketchFlow](https://twitter.com/sketchflowapp)
+
+## Useful stuff
+
+- [Sketch Shortcuts](http://www.sketchshortcuts.com/)
+  by [Robert van Klinken](https://twitter.com/robertvklinken) & [Jeffrey de Groot](https://twitter.com/jeffreydgroot)
