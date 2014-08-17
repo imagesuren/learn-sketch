@@ -51,6 +51,8 @@ Twitter:
 
 ## Plugins
 
+- [Duplicator](https://github.com/turbobabr/duplicator)
+  by [Andrey Shakhmin](https://twitter.com/turbobabr)
 - [Font Awesome Symbols for Sketch](https://github.com/sethlilly/Font-Awesome-Symbols-for-Sketch)
   by [Seth Lilly](https://twitter.com/sethlilly)
 - [Toggle Layer Visibility](https://github.com/preciousforever/sketch-toggle-layer-visibility)
