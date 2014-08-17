@@ -29,6 +29,9 @@ Twitter:
 - [Sketch for Print Design!](https://medium.com/@pnowelldesign/sketch-for-print-design-fd165b92cb3a)
   by [Peter Nowell](https://twitter.com/pnowelldesign)
   _(2014-07-29)_
+- [Some early thoughts on Sketch 3](http://stuffandnonsense.co.uk/blog/about/some-early-thoughts-on-sketch-3)
+  by [Andrew Clarke](https://twitter.com/malarkey)
+  _(2014-07-28)_
 - [Harnessing Vector Awesomeness in Sketch](https://medium.com/sketch-app/harnessing-vector-awesomeness-in-sketch-3c9621408138)
   by [Peter Nowell](https://twitter.com/pnowelldesign)
   _(2014-07-08)_
