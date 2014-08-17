@@ -29,6 +29,9 @@
 - [Some early thoughts on Sketch 3](http://stuffandnonsense.co.uk/blog/about/some-early-thoughts-on-sketch-3)
   by [Andrew Clarke](https://twitter.com/malarkey)
   _(2014-07-28)_
+- [Streamlining the Design Process: User Flow to Final Design using Sketch](https://medium.com/@wixelhq/streamlining-the-design-process-user-flow-to-final-design-using-sketch-ba71d2355bf9)
+  by [Wixel](https://twitter.com/wixelhq)
+  _(2014-07-23)_
 - [Harnessing Vector Awesomeness in Sketch](https://medium.com/sketch-app/harnessing-vector-awesomeness-in-sketch-3c9621408138)
   by [Peter Nowell](https://twitter.com/pnowelldesign)
   _(2014-07-08)_
