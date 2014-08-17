@@ -58,6 +58,9 @@ Twitter:
 - [Sparrow Yosemite Icon designed in Sketch](https://www.youtube.com/watch?v=_AncnVkO1-Q)
   by [Jean-Marc Denis](https://twitter.com/jm_denis)
   _(31:27)_
+- [Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)
+  by [Level Up Tuts](https://twitter.com/leveluptuts)
+  _(playlist)_
 
 ---
 
