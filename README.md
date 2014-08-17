@@ -120,3 +120,5 @@ Twitter:
 
 - [Sketch Shortcuts](http://www.sketchshortcuts.com/)
   by [Robert van Klinken](https://twitter.com/robertvklinken) & [Jeffrey de Groot](https://twitter.com/jeffreydgroot)
+- [Who Uses Sketch](http://whousessket.ch/)
+  by [Pixelpillow](@PixelpillowHQ)
