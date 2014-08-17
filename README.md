@@ -30,14 +30,18 @@ Twitter:
   by [Sebastien Gabriel](https://twitter.com/KounterB)
   _(2014-05-26)_
 
+## GUIs and UI kits
+
+- [iPhone GUI for Sketch (iOS7)](http://www.teehanlax.com/tools/iphone-sketch-app/)
+  by [teehan+lax](https://twitter.com/teehanlax)
+  _(free)_
+- [Matter UI Kit for Sketch](https://www.matterkit.io/)
+  by [Matter](https://twitter.com/matterkit)
+  _($19)_
+
 ## Plugins
 
 - [Font Awesome Symbols for Sketch](https://github.com/sethlilly/Font-Awesome-Symbols-for-Sketch)
   by [Seth Lilly](https://twitter.com/sethlilly)
 - [Toggle Layer Visibility](https://github.com/preciousforever/sketch-toggle-layer-visibility)
   by [precious design studio](https://twitter.com/preciousforever)
-
-## GUIs and UI kits
-
-- [iPhone GUI for Sketch (iOS7)](http://www.teehanlax.com/tools/iphone-sketch-app/)
-  by [teehan+lax](https://twitter.com/teehanlax) _free_
