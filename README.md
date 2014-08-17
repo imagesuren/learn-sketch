@@ -57,6 +57,8 @@ Twitter:
 
 ## Plugins
 
+- [AEFlowchart](https://github.com/tadija/sketch-plugins)
+  by [Marko Tadić](https://twitter.com/_tadija)
 - [Duplicator](https://github.com/turbobabr/duplicator)
   by [Andrey Shakhmin](https://twitter.com/turbobabr)
 - [Font Awesome Symbols for Sketch](https://github.com/sethlilly/Font-Awesome-Symbols-for-Sketch)
