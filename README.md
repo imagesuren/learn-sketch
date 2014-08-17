@@ -4,6 +4,8 @@ Website: [Bohemian Coding](http://bohemiancoding.com/sketch/)
 
 Official Facebook group: [Sketch](https://www.facebook.com/groups/sketchformac/)
 
+Twitter: [@bohemiancoding](https://twitter.com/bohemiancoding), [@sketchapp](https://twitter.com/sketchapp)
+
 ## Where to buy
 
 - [Sketch - Mac App Store](https://itunes.apple.com/us/app/sketch/id852320343)
