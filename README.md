@@ -46,6 +46,12 @@ Twitter:
 
 ## Tutorials
 
+- [Colorful switch](https://medium.com/@KounterB/sketch-tutorial_01-b76271a095e3)
+  by [Sebastien Gabriel](https://twitter.com/KounterB)
+  _(2014-06-06)_
+
+## Videos
+
 - [Sparrow Yosemite Icon designed in Sketch](https://www.youtube.com/watch?v=_AncnVkO1-Q)
   by [Jean-Marc Denis](https://twitter.com/jm_denis)
   _(31:27)_
