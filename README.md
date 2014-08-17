@@ -23,6 +23,9 @@ Twitter:
 
 ## Articles
 
+- [From Photoshop to Sketch](http://everydaydesigner.net/design/from-photoshop-to-sketch)
+  by [Richard Child](https://twitter.com/thisincludes)
+  _(2014-08-13)_
 - [How & why I moved to Sketch](http://hackingui.com/design/sketch-design/why-i-moved-to-sketch/)
   by [Sagi Shrieber](https://twitter.com/sagishrieber)
   _(2014-08-13)_
