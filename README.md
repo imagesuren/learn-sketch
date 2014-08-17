@@ -48,6 +48,12 @@ Twitter:
 - [Android L Tablet UI Template](https://dribbble.com/shots/1652300-Android-L-Tablet-UI-Template-sketch)
   by [Vincent Tantardini](https://twitter.com/vtcreative)
   _(free)_
+- [Bolt UI Kit](http://ui8.net/product/bolt-ui-kit)
+  by [Creativedash](@Creativedash)
+  _($88)_
+- [Information Architecture Kit](http://ui8.net/product/information-architecture-kit)
+  by [Creativedash](@Creativedash)
+  _($42)_
 - [iPhone GUI for Sketch (iOS7)](http://www.teehanlax.com/tools/iphone-sketch-app/)
   by [teehan+lax](https://twitter.com/teehanlax)
   _(free)_
