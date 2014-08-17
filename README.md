@@ -36,3 +36,8 @@ Twitter:
   by [Seth Lilly](https://twitter.com/sethlilly)
 - [Toggle Layer Visibility](https://github.com/preciousforever/sketch-toggle-layer-visibility)
   by [precious design studio](https://twitter.com/preciousforever)
+
+## GUIs and UI kits
+
+- [iPhone GUI for Sketch (iOS7)](http://www.teehanlax.com/tools/iphone-sketch-app/)
+  by [teehan+lax](https://twitter.com/teehanlax) _free_
