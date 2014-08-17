@@ -29,3 +29,8 @@ Twitter:
 - [A month with Sketch 3](https://medium.com/@KounterB/a-month-with-sketch-3-68c443fe5041)
   by [Sebastien Gabriel](https://twitter.com/KounterB)
   _(2014-05-26)_
+
+## Plugins
+
+- [Font Awesome Symbols for Sketch](https://github.com/sethlilly/Font-Awesome-Symbols-for-Sketch)
+  by [Seth Lilly](https://twitter.com/sethlilly)
