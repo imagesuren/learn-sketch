@@ -19,6 +19,8 @@ Twitter:
   on the App Store
   _($4.99 / 4,49€ / £2.99 / ¥500)_
 
+---
+
 ## Articles
 
 - [How & why I moved to Sketch](http://hackingui.com/design/sketch-design/why-i-moved-to-sketch/)
@@ -33,6 +35,14 @@ Twitter:
 - [A month with Sketch 3](https://medium.com/@KounterB/a-month-with-sketch-3-68c443fe5041)
   by [Sebastien Gabriel](https://twitter.com/KounterB)
   _(2014-05-26)_
+
+## Tips and tricks
+
+- [Import web pages into Sketch](https://medium.com/@timur_carpeev/import-web-pages-into-sketch-6681ae0b118a)
+  by [Timur Carpeev](https://twitter.com/timur_carpeev)
+  _(2014-05-09)_
+
+---
 
 ## Icons
 
@@ -61,6 +71,8 @@ Twitter:
   by [Matter](https://twitter.com/matterkit)
   _($19)_
 
+---
+
 ## Plugins
 
 - [AEFlowchart](https://github.com/tadija/sketch-plugins)
@@ -76,6 +88,8 @@ Twitter:
 
 - [sketchflow](http://sketchflow.io/)
   by [SketchFlow](https://twitter.com/sketchflowapp)
+
+---
 
 ## Useful stuff
 
