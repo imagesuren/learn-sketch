@@ -12,8 +12,8 @@ Twitter:
 
 ## Where to buy
 
-- [Sketch - Mac App Store](https://itunes.apple.com/us/app/sketch/id852320343)
-- [Sketch Mirror - iTunes Store](https://itunes.apple.com/us/app/sketch-mirror/id677296955)
+- [Sketch - Mac App Store](https://itunes.apple.com/us/app/sketch/id852320343) $79.99 / 69,99€ / £54.99
+- [Sketch Mirror - iTunes Store](https://itunes.apple.com/us/app/sketch-mirror/id677296955) $4.99 / 4,49€ / £2.99
 
 ## Articles
 
