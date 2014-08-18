@@ -93,6 +93,9 @@
 - [Matter UI Kit for Sketch](https://www.matterkit.io/)
   by [Matter](https://twitter.com/matterkit)
   _($19)_
+- [Sketch Foundation Kit](https://github.com/stephenway/sketch-foundation-kit)
+  by [Stephen Way](https://twitter.com/stephenway)
+  _(free)_
 - [Yosemite UI Kit](http://yosemiteui.com/)
   by [Keir Ansell](https://twitter.com/keir)
   _(free)_
