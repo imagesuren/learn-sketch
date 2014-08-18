@@ -105,28 +105,36 @@
 ## Plugins
 
 - [AEFlowchart](https://github.com/tadija/sketch-plugins)
-  by [Marko Tadić](https://twitter.com/_tadija)
+  by [Marko Tadić](https://twitter.com/_tadija)  
+  _"The idea of this plugin is to make it fast and easy to draw flowcharts in Sketch"_
 - [Duplicator](https://github.com/turbobabr/duplicator)
-  by [Andrey Shakhmin](https://twitter.com/turbobabr)
+  by [Andrey Shakhmin](https://twitter.com/turbobabr)  
+  _"A small Sketch 3 plugin that takes the currently selected layers and copies them once or multiple times in a specified direction"_
 - [Font Awesome Symbols for Sketch](https://github.com/sethlilly/Font-Awesome-Symbols-for-Sketch)
-  by [Seth Lilly](https://twitter.com/sethlilly)
+  by [Seth Lilly](https://twitter.com/sethlilly)  
+  _"It's all the goodness of Font Awesome in easily accessible symbols crafted specifically for Sketch 3"_
 - [Toggle Layer Visibility](https://github.com/preciousforever/sketch-toggle-layer-visibility)
-  by [precious design studio](https://twitter.com/preciousforever)
+  by [precious design studio](https://twitter.com/preciousforever)  
+  _"In our Sketch files, we often use "boundingBox" layers in eg. icon layer groups to see (and use) their actual dimension and bounds. Since we don't want to see "boundingBoxes" permanently, we created this little plugin to toggle their visibility with a keyboard shortcut (cmd + l)."_
 
 ## Tools
 
 - [Sketch Toolbox](http://sketchtoolbox.com/)
-  by [Shahruz Shaukat](https://twitter.com/shahruz)
+  by [Shahruz Shaukat](https://twitter.com/shahruz)  
+  _"A super simple plugin manager for Sketch"_
 - [sketchflow](http://sketchflow.io/)
-  by [SketchFlow](https://twitter.com/sketchflowapp)
+  by [SketchFlow](https://twitter.com/sketchflowapp)  
+  _"Export your sketch files for web and mobile"_
 - [SketchTool](http://bohemiancoding.com/sketch/tool/)
-  by [Bohemian Coding](https://twitter.com/bohemiancoding)
+  by [Bohemian Coding](https://twitter.com/bohemiancoding)  
+  _"A command-line app for exporting pages and slices out of .sketch docs"_
 
 ---
 
 ## Useful stuff
 
 - [Sketch Shortcuts](http://www.sketchshortcuts.com/)
-  by [Robert van Klinken](https://twitter.com/robertvklinken) & [Jeffrey de Groot](https://twitter.com/jeffreydgroot)
+  by [Robert van Klinken](https://twitter.com/robertvklinken) & [Jeffrey de Groot](https://twitter.com/jeffreydgroot)  
+  _"A list of Keyboard Shortcuts for Sketch App"_
 - [Who Uses Sketch](http://whousessket.ch/)
   by [Pixelpillow](@PixelpillowHQ)
