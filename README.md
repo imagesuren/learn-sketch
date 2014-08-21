@@ -72,6 +72,9 @@
 - [SketchActive](http://www.aegeank.com/sketchactive/)
   by [Aegean K](https://twitter.com/AegeanKuang)
   _(free)_
+- [Sound Line Icons](https://dribbble.com/shots/1689236-Free-Sound-Line-Icons)
+  by [Nicolas Fallourd](https://twitter.com/nicolasfallourd)
+  _(free)_
 
 ## GUIs and UI kits
 
